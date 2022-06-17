@@ -18,7 +18,7 @@
 
 - I developed the solution to this problem in four phases:
 
-  1. Data preprocessing/filtering (which includes Language Detection, Gibberish Detection, Profanity Detection)
+  1. Data preprocessing (which includes Language Detection, Gibberish Detection, Profanity Detection)
 
   2. Feature extraction
 
