@@ -1,0 +1,7 @@
+joblib
+textblob
+pandas-profiling
+vaderSentiment
+spacy
+jellyfish
+langdetect
