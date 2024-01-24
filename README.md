@@ -1,5 +1,3 @@
-- URL: https://www.projectpro.io/project-use-case/ecommerce-product-reviews-ranking-sentiment-analysis
-
 ### Problem description
 
 - E-Commerce applications provide an added advantage to customers to buy a product with added suggestions in the form of reviews.
