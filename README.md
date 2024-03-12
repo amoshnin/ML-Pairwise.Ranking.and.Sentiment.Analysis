@@ -22,6 +22,6 @@
 
   3. Pairwise review ranking
 
-  4. Classification.
+  4. Classification
 
 - Outcome of the model is a list of reviews for a particular product ranking on the basis of relevance using a pairwise ranking approach.
